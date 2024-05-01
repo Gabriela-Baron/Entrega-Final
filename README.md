@@ -3,7 +3,7 @@
 /*
  * INSTITUCION UNIVERSITARIA POLITECNICO GRAMCOLOMBIANO
  * MODULO CONCEPTOS FUNDAMENTALES DE PPROGRAMACION [GRUPO B02]
- * ENTREGA PROYECTO 1 - ESCENARIO 3
+ * ENTREGA FINAL- SEMANAS 7 Y 8. 
  * 
  * INTEGRANTES SUBGRUPO 10
  * ROBINSON AMADO PEÑA - 100273913
@@ -404,6 +404,8 @@ public class GenerateInfoFiles {
                 String nombre = nombresVendedores[index];
                 String apellido = apellidosVendedores[index];
                 String tipoDocumento = tipoDocumentos[index];
+
+  # MUCHAS GRACIAS
                 String numeroDocumento = numeroDocumentos[index];
                 int ventasTotales = rand.nextInt(1000000); // Generar ventas totales aleatorias
 
